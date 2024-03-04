@@ -3,7 +3,7 @@ This command-line application parses multiple cron expressions and expands each 
 
 # Usage
 **1. Clone the repo using ssh command:**  
-https://github.com/akshayvadicharla/CronExpressionEvaluator.git
+git clone https://github.com/akshayvadicharla/CronExpressionEvaluator.git
 
 **2. Open Intellij and open Cloned Repository.**
 
